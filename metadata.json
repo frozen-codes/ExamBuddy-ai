@@ -1,0 +1,6 @@
+{
+  "name": "ExamBuddy AI",
+  "description": "Adaptive AI-powered student productivity and exam study planner that analyzes realistic schedules, syllabus, and exam urgency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
